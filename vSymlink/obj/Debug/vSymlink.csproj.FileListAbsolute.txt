@@ -1,0 +1,11 @@
+C:\Users\qq234\vsymlinks\mklinkGUI\bin\Debug\vSymlink.exe.config
+C:\Users\qq234\vsymlinks\mklinkGUI\bin\Debug\vSymlink.exe
+C:\Users\qq234\vsymlinks\mklinkGUI\bin\Debug\vSymlink.pdb
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.csprojAssemblyReference.cache
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\mklinkGUI.AboutForm.resources
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\mklinkGUI.Form1.resources
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.Properties.Resources.resources
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.csproj.GenerateResource.cache
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.csproj.CoreCompileInputs.cache
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.exe
+C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.pdb

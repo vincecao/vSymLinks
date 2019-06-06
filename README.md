@@ -21,4 +21,4 @@ mklink /D c:\fruit c:\apples\bananas\oranges
 - Click convert and you can move the Symbolic Links in `SymbolicLinks` to anywhere
 
 ## Download
-[download exe](./mklinkGUI/bin/Debug/mklinkGUI.exe)
+[download exe](./mklinkGUI/bin/Debug/vSymlink.exe)
