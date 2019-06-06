@@ -1,0 +1,10 @@
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\bin\Debug\mklinkGUI.exe.config
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\bin\Debug\mklinkGUI.exe
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\bin\Debug\mklinkGUI.pdb
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\obj\Debug\mklinkGUI.AboutForm.resources
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\obj\Debug\mklinkGUI.Form1.resources
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\obj\Debug\mklinkGUI.Properties.Resources.resources
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\obj\Debug\mklinkGUI.csproj.GenerateResource.cache
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\obj\Debug\mklinkGUI.csproj.CoreCompileInputs.cache
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\obj\Debug\mklinkGUI.exe
+C:\Users\qq234\source\repos\mklinkGUI\mklinkGUI\obj\Debug\mklinkGUI.pdb
