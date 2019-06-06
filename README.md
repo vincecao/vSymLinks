@@ -20,5 +20,5 @@ mklink /D c:\fruit c:\apples\bananas\oranges
 - Drag the file or folder into the form
 - Click convert and you can move the Symbolic Links in `SymbolicLinks` to anywhere
 
-## download
+## Download
 [download exe](./mklinkGUI/bin/Debug/mklinkGUI.exe)
