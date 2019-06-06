@@ -1,0 +1,2 @@
+- Install `auto-generated.cer`, with `trusted people`
+- Install `vSynlink.appx`

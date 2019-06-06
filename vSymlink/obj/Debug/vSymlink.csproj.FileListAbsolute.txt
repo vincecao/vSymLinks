@@ -9,3 +9,13 @@ C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.csproj.GenerateResource.ca
 C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.csproj.CoreCompileInputs.cache
 C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.exe
 C:\Users\qq234\vsymlinks\mklinkGUI\obj\Debug\vSymlink.pdb
+C:\Users\qq234\vsymlinks\vSymlink\bin\Debug\vSymlink.exe.config
+C:\Users\qq234\vsymlinks\vSymlink\bin\Debug\vSymlink.exe
+C:\Users\qq234\vsymlinks\vSymlink\bin\Debug\vSymlink.pdb
+C:\Users\qq234\vsymlinks\vSymlink\obj\Debug\mklinkGUI.AboutForm.resources
+C:\Users\qq234\vsymlinks\vSymlink\obj\Debug\mklinkGUI.Form1.resources
+C:\Users\qq234\vsymlinks\vSymlink\obj\Debug\vSymlink.Properties.Resources.resources
+C:\Users\qq234\vsymlinks\vSymlink\obj\Debug\vSymlink.csproj.GenerateResource.cache
+C:\Users\qq234\vsymlinks\vSymlink\obj\Debug\vSymlink.csproj.CoreCompileInputs.cache
+C:\Users\qq234\vsymlinks\vSymlink\obj\Debug\vSymlink.exe
+C:\Users\qq234\vsymlinks\vSymlink\obj\Debug\vSymlink.pdb
