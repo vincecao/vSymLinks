@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("vSymlink")]
-[assembly: AssemblyCopyright("Copyright © Lineng Cao 2019")]
+[assembly: AssemblyCopyright("Copyright © Vince Cao 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
