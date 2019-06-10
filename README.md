@@ -21,4 +21,8 @@ mklink /D c:\fruit c:\apples\bananas\oranges
 - Click convert and you can move the Symbolic Links in `SymbolicLinks` to anywhere
 
 ## Download
-[download exe](./mklinkGUI/bin/Debug/vSymlink.exe)
+## Github
+[Exe file](https://gitlab.com/vcec/vsymlinks/blob/master/vSymlink/bin/Debug/vSymlink.exe)
+
+## Windows Store
+<a href='//www.microsoft.com/store/apps/9n4skx6602h2?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
