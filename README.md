@@ -1,7 +1,7 @@
 # vSymLinks(mklinkGUI)
 
 A GUI verison of Mklink for Windows creating Symbolic Links. Using original mklink in Windows cmd command. Please also check my blog [Symbolic Links](https://vince-amazing.com/blog/2018/06/28/symbolic-link/).
-**(NEED TOGGLE ON "DEVELOPMENT MODE" TO WORK)**
+**(NEED TURN ON "DEVELOPER MODE" TO WORK)**
 
 _Lineng Cao_
 
