@@ -6,7 +6,6 @@ A GUI verison of Mklink for Windows creating Symbolic Links. Using original mkli
 _Lineng Cao_
 
 ## Screenshot
-![]()
 ![](./screenshots/demo.gif)
 
 ## Original mklink command in Windows
@@ -24,11 +23,11 @@ mklink /D c:\fruit c:\apples\bananas\oranges
 
 ## Download
 ## Github
-[Exe file](https://gitlab.com/vcec/vsymlinks/blob/master/vSymlink/bin/Debug/vSymlink.exe)
+[Exe file](https://github.com/vincecao/vSymLinks-/raw/master/vSymlink/bin/Debug/vSymlink.exe)
 
 ## Windows Store
 <a href='//www.microsoft.com/store/apps/9n4skx6602h2?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
 
 ## License
 vSymLinks by Lineng Cao is licensed under a MIT License.
-Based on a work at [https://gitlab.com/vcec/vsymlinks](https://gitlab.com/vcec/vsymlinks)
+Based on a work at [vSymLinks](https://github.com/vincecao/vSymLinks)
